@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.value {
+  font-weight: bold;
+  font-size: 24px;
+  color: #00698f; /* blue */
+}
+
+div {
+  margin-top: 20px;
+}
