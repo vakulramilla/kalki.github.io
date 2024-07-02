@@ -1,14 +1,19 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
+  color:orange;
+  border:dot-dot-dash;
+  background:blueviolet;
 }
 
 .value {
   font-weight: bold;
   font-size: 24px;
-  color: #00698f; /* blue */
+/*   color: #00698f; blue */
+  color:blue;
 }
 
-div {
+h3 {
   margin-top: 20px;
+  color:magenta;
 }
